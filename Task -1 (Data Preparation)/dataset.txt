@@ -1,26 +1,7 @@
-,Functions,Expansion
-0,sin(x),-x**3/6 + x
-1,cos(x),1 - x**2/2
-2,tan(x),x**3/3 + x
-3,tanh(x),-x**3/3 + x
-4,exp(x),x**3/6 + x**2/2 + x + 1
-5,log(x),log(x)
-6,sqrt(x),sqrt(x)
-7,acos(x),-x**3/6 - x + pi/2
-8,acosh(x),-I*x**3/6 - I*x + I*pi/2
-9,acot(x),x**3/3 - x + pi/2
-10,acoth(x),x**3/3 + x + I*pi/2
-11,asin(x),x**3/6 + x
-12,asinh(x),-x**3/6 + x
-13,atan(x),-x**3/3 + x
-14,atanh(x),x**3/3 + x
-15,cosh(x),x**2/2 + 1
-16,cot(x),-x**3/45 - x/3 + 1/x
-17,coth(x),-x**3/45 + x/3 + 1/x
-18,csc(x),7*x**3/360 + x/6 + 1/x
-19,csch(x),7*x**3/360 - x/6 + 1/x
-20,sec(x),x**2/2 + 1
-21,sech(x),1 - x**2/2
-22,sign(x),1
-23,sinc(x),1 - x**2/6
-24,sinh(x),x**3/6 + x
+Functions,Expansion
+sin(x),-x**3/6 + x
+cos(x),1 - x**2/2
+tan(x),x**3/3 + x
+exp(x),x**3/6 + x**2/2 + x + 1
+log(x),log(x)
+sqrt(x),sqrt(x)
